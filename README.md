@@ -12,4 +12,4 @@ Clone, create a new branch as always.
 Read questions at pag. 54 (Chapter 2) on main textbook "Applied Econometrics with R" by Kleiber and Zeileis.
 Write your solutions, including the codes, in:
 
-- `solution.Rmd`. Write your name, affiliation, knit to PDF, commit all necessary files and open a PR.
+- `solution-hw02.Rmd`. Write your name, affiliation, knit to PDF, commit all necessary files and open a PR.
